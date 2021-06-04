@@ -1,0 +1,254 @@
+.udemy {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  width: 100%;
+  height: 100px;
+  margin: 0 px;
+}
+.header-div1 {
+  width: 200px;
+  height: 70px;
+}
+.header-div2 {
+  margin-top: 15px;
+  margin-right: 20px;
+  margin-left: 5px;
+  padding-top: 15px;
+  width: 175px;
+  height: 70px;
+}
+.header-div3 {
+  padding-top: 15px;
+  width: 900px;
+  height: 25px;
+}
+input[type="text"] {
+  width: 500px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 16px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url("search1.png");
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+.header-div4 {
+  margin-top: 15px;
+  padding-top: 15px;
+  margin-right: 15px;
+  margin-left: 30px;
+  width: 300px;
+  height: 70px;
+}
+.header-div5 {
+  margin-top: 15px;
+  padding-top: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+  width: 300px;
+  height: 70px;
+}
+.header-div6 {
+  margin-top: 0px;
+  padding-top: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
+  width: 100px;
+  height: 70px;
+}
+.header-div7 {
+  margin-top: 20px;
+  width: 250px;
+  height: 50px;
+}
+.button-1 {
+  background-color: white;
+  border: solid 1px #0f7c90;
+  opacity: 0.8;
+  color: #0f7c90;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px px;
+}
+.button1 {
+  border-radius: 8px;
+}
+.button-1:hover {
+  opacity: 1.6;
+}
+
+.header-div8 {
+  margin-top: 15px;
+  width: 250px;
+  height: 50px;
+}
+.button-2 {
+  background-color: #0f7c90;
+  opacity: 0.8;
+  border: none;
+  color: white;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+}
+.button2 {
+  border-radius: 8px;
+}
+
+.button-2:hover {
+  opacity: 1.6;
+}
+
+.blank {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  border: 1px solid black;
+  width: 100%;
+  height: 100px;
+  margin: 0 px;
+}
+.slider {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  border: 1px solid black;
+  width: 100%;
+  height: 60px;
+  margin: 0 px;
+}
+
+.slider-div1 {
+  margin-top: 15px;
+  width: 130px;
+  height: 50px;
+}
+.slider-div2 {
+  margin-top: 15px;
+  width: 60px;
+  height: 50px;
+}
+.slider-div3 {
+  margin-top: 15px;
+  width: 200px;
+  height: 50px;
+}
+.btn-1 {
+  background-color: white;
+  border-style: none;
+  opacity: 0.8;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px px;
+}
+
+.btn-2 {
+  background-color: white;
+  border-style: none;
+  opacity: 0.8;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px px;
+}
+.btn-3 {
+  background-color: white;
+  border-style: none;
+  opacity: 0.8;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px px;
+}
+.btn-1:hover {
+  opacity: 1.6;
+}
+.btn-2:hover {
+  opacity: 1.6;
+}
+.btn-3:hover {
+  opacity: 1.6;
+}
+
+select {
+  background-color: white;
+  border: solid 1.5px black;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+}
+
+.filter-button {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  border: 1px solid black;
+  width: 100%;
+  margin: 0 px;
+}
+.f1-div1 {
+  margin-top: 15px;
+  width: 400px;
+}
+.f1-div2 {
+  margin-top: 15px;
+  width: 1000px;
+}
+
+.button-4 {
+  background-color: white;
+  border: solid 1.5px black;
+  opacity: 0.8;
+  color: black;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+}
+.button4 {
+  border-radius: 4px;
+}
